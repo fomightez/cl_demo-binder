@@ -17,7 +17,7 @@ A launchable, working Jupyter-based environment that has a collection of demonst
 
 ## Attributions
 
-I tried to include all attributions for each resource; however, let me know if you catch an oversight or you'd like to suggest an improvement.
+I tried to include attributions for each resource when they were not mine; however, let me know if you catch an oversight or you'd like to suggest an improvement.
 
 
 ## Technical notes
