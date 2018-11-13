@@ -1,7 +1,7 @@
 # cl_demo-binder
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
 
 
 *tl;dr:*  
@@ -27,4 +27,4 @@ This repository is set up to make use of the binder service offered by [MyBinder
 
 Click `launch binder` below to start using the demonstrations.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
