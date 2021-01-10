@@ -23,7 +23,12 @@ I tried to include attributions for each resource when they were not mine; howev
 
 ## Related 
 
-- [pdbsum-binder](https://github.com/fomightez/pdbsum-binder) - working with data from PDBsum
+- [pdbsum-binder](https://github.com/fomightez/pdbsum-binder) - working with data from PDBsum intgerated with Jupyter/Python
+- [jupyter-jsmol-binder](https://github.com/fomightez/jupyter-jsmol-binder) - JMol Jsmol applets in Jupyter notebook
+- [Jupyter-desktop_with_pymo](https://github.com/fomightez/Jupyter-desktop_with_pymol) - PyMol graphical user interface serverd via MyBinder.org
+- [pymol-binder](https://github.com/fomightez/pymol-binder) - PyMOL running headless for command line/scripting and interaction with Python.
+- [modelit-binder](https://github.com/fomightez/modelit-binder) - Model.it software to produce a 3D model of DNA in bent confirmation combined with Jupyter ecosystem and PyMOL served via MyBinder.org
+- [AnimatePymolWithJmol](https://github.com/fomightez/AnimatePymolWithJmol) - Easily animate PyMOL session scenes with Jmol to create an animated GIFs
 
 See [here](https://github.com/fomightez/sequencework/blob/master/README.md#related-binderized-utilities) for a listing of resources in a similar vein yet targeted to biological sequence data. In particular, see [cl_demo-binder](https://github.com/fomightez/cl_demo-binder) for the companion set to this one.
 
