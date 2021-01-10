@@ -23,6 +23,8 @@ I tried to include attributions for each resource when they were not mine; howev
 
 ## Related 
 
+- [pdbsum-binder](https://github.com/fomightez/pdbsum-binder) - working with data from PDBsum
+
 See [here](https://github.com/fomightez/sequencework/blob/master/README.md#related-binderized-utilities) for a listing of resources in a similar vein yet targeted to biological sequence data. In particular, see [cl_demo-binder](https://github.com/fomightez/cl_demo-binder) for the companion set to this one.
 
 ## Technical notes
