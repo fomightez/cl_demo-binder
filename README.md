@@ -25,8 +25,8 @@ I tried to include attributions for each resource when they were not mine; howev
 
 - [pdbsum-binder](https://github.com/fomightez/pdbsum-binder) - working with data from PDBsum integrated with Jupyter/Python
 - [jupyter-jsmol-binder](https://github.com/fomightez/jupyter-jsmol-binder) - JMol Jsmol applets in Jupyter notebook
-- [Jupyter-desktop_with_pymo](https://github.com/fomightez/Jupyter-desktop_with_pymol) - PyMol graphical user interface served via MyBinder.org
-- [pymol-binder](https://github.com/fomightez/pymol-binder) - PyMOL running headless for command line/scripting and interaction with Python.
+- [Jupyter-desktop_with_pymo](https://github.com/fomightez/Jupyter-desktop_with_pymol) - PyMOL graphical user interface served via MyBinder.org
+- [pymol-binder](https://github.com/fomightez/pymol-binder) - PyMOL running headless for command line/scripting and interaction with Python
 - [modelit-binder](https://github.com/fomightez/modelit-binder) - Model.it software to produce a 3D model of DNA in bent confirmation combined with Jupyter ecosystem and PyMOL served via MyBinder.org
 - [AnimatePymolWithJmol](https://github.com/fomightez/AnimatePymolWithJmol) - Easily animate PyMOL session scenes with Jmol to create an animated GIFs
 
