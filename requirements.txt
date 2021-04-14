@@ -5,3 +5,4 @@ biopython
 intermine
 seaborn
 openpyxl
+ipydrawio
