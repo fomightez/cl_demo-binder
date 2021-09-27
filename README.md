@@ -1,7 +1,7 @@
 # cl_demo-binder
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Fnotebooks%2Findex.ipynb)
 
 
 *tl;dr:*  
@@ -21,7 +21,7 @@ Meant to be self-contained and ready-to-go. No installations or copying of noteb
 
 I tried to include attributions for each resource when they were not mine; however, let me know if you catch an oversight or you'd like to suggest an improvement.
 
-## Related 
+## Related
 
 - [pdbsum-binder](https://github.com/fomightez/pdbsum-binder) - working with data from PDBsum integrated with Jupyter/Python
 - [jupyter-jsmol-binder](https://github.com/fomightez/jupyter-jsmol-binder) - JMol Jsmol applets in Jupyter notebook
@@ -43,4 +43,4 @@ This repository is set up to make use of the binder service offered by [MyBinder
 
 Click `launch binder` below to start using the demonstrations.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Fnotebooks%2Findex.ipynb)
