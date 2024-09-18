@@ -27,6 +27,7 @@ I tried to include attributions for each resource when they were not mine; howev
 - [jupyter-jsmol-binder](https://github.com/fomightez/jupyter-jsmol-binder) - JMol Jsmol applets in Jupyter notebook
 - [Jupyter-desktop_with_pymo](https://github.com/fomightez/Jupyter-desktop_with_pymol) - PyMOL graphical user interface served via MyBinder.org
 - [pymol-binder](https://github.com/fomightez/pymol-binder) - PyMOL running headless for command line/scripting and interaction with Python.
+- [Unipressed-binder](https://github.com/fomightez/Unipressed-binder) - Current examples there include getting structure files for UniProt queries starting with various information..
 
     - In particular there are several notebooks dealing with fetching structures and color them.
     - [Demo of iterating over the residues of a protein chain and reporting the secondary structure designation assigned to each residue.](https://github.com/fomightez/pymol-binder/blob/master/notebooks/demo_residue_secondary_structure.ipynb)
