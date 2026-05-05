@@ -45,3 +45,6 @@ This repository is set up to make use of the binder service offered by [MyBinder
 Click `launch binder` below to start using the demonstrations.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Fnotebooks%2Findex.ipynb)
+
+JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Flab%2Ftree%2Findex.ipynb)  
+Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Ftree%2Findex.ipynb)
