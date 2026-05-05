@@ -41,10 +41,9 @@ See [here](https://github.com/fomightez/sequencework/blob/master/README.md#relat
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
+------------------
 
-Click `launch binder` below to start using the demonstrations.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Fnotebooks%2Findex.ipynb)
+Click a `launch binder` below to start using the demonstrations.
 
 JupyterLab interface: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Flab%2Ftree%2Findex.ipynb)  
 Jupyter Notebook 7+:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/cl_demo-binder/master?urlpath=%2Ftree%2Findex.ipynb)
